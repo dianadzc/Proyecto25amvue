@@ -11,6 +11,8 @@
     "type-check": "vue-tsc --noEmit -p tsconfig.vitest.json --composite false"
   },
   "dependencies": {
+    "cookie": "^0.5.0",
+    "js": "^0.1.0",
     "pinia": "^2.0.32",
     "vue": "^3.2.47",
     "vue-router": "^4.1.6"
